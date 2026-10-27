@@ -1,0 +1,443 @@
+[
+  "tree",
+  {
+    "words": {
+      "195188": {
+        "_id": 195188,
+        "word": "David",
+        "language_name": "English",
+        "progeny_count": 31,
+        "frequencies": 1603026,
+        "common_descendants": {
+          "258521": {
+            "progeny": 258521,
+            "progeny_word": "Davis",
+            "progeny_language": "English",
+            "quality": 255
+          },
+          "316045": {
+            "progeny": 316045,
+            "progeny_word": "Dawkins",
+            "progeny_language": "English",
+            "quality": 253
+          },
+          "331462": {
+            "progeny": 331462,
+            "progeny_word": "Davidson",
+            "progeny_language": "English",
+            "quality": 254
+          }
+        },
+        "entries": {
+          "0": {
+            "pos": {
+              "0": {
+                "definitions": [
+                  "The second king of Judah and Israel, the successor of King Saul in the Hebrew Bible; the son of Jesse and the father of Nathan and King Solomon"
+                ]
+              }
+            }
+          }
+        }
+      },
+      "236805": {
+        "_id": 236805,
+        "word": "Δαυίδ",
+        "language_name": "Ancient Greek",
+        "progeny_count": 92,
+        "frequencies": 0,
+        "common_descendants": {
+          "195188": {
+            "progeny": 195188,
+            "progeny_word": "David",
+            "progeny_language": "English",
+            "quality": 255
+          },
+          "258521": {
+            "progeny": 258521,
+            "progeny_word": "Davis",
+            "progeny_language": "English",
+            "quality": 254
+          },
+          "647945": {
+            "progeny": 647945,
+            "progeny_word": "Taaffe",
+            "progeny_language": "English",
+            "quality": 242
+          }
+        },
+        "entries": {
+          "0": {
+            "pos": {
+              "0": {
+                "definitions": [
+                  "David"
+                ]
+              }
+            }
+          }
+        }
+      },
+      "236806": {
+        "_id": 236806,
+        "word": "David",
+        "language_name": "Latin",
+        "progeny_count": 91,
+        "frequencies": 0,
+        "common_descendants": {
+          "168573": {
+            "progeny": 168573,
+            "progeny_word": "toffee",
+            "progeny_language": "English",
+            "quality": 246
+          },
+          "268796": {
+            "progeny": 268796,
+            "progeny_word": "Taffy",
+            "progeny_language": "English",
+            "quality": 247
+          },
+          "327491": {
+            "progeny": 327491,
+            "progeny_word": "Taff",
+            "progeny_language": "English",
+            "quality": 243
+          }
+        },
+        "entries": {
+          "0": {
+            "pos": {
+              "0": {
+                "definitions": [
+                  "David"
+                ]
+              }
+            }
+          }
+        }
+      },
+      "236807": {
+        "_id": 236807,
+        "word": "דָּוִד",
+        "language_name": "Hebrew",
+        "progeny_count": 160,
+        "frequencies": 0,
+        "common_descendants": {
+          "195188": {
+            "progeny": 195188,
+            "progeny_word": "David",
+            "progeny_language": "English",
+            "quality": 255
+          },
+          "258521": {
+            "progeny": 258521,
+            "progeny_word": "Davis",
+            "progeny_language": "English",
+            "quality": 254
+          },
+          "331462": {
+            "progeny": 331462,
+            "progeny_word": "Davidson",
+            "progeny_language": "English",
+            "quality": 253
+          }
+        }
+      },
+      "1893365": {
+        "_id": 1893365,
+        "word": "David",
+        "language_name": "Middle English",
+        "progeny_count": 40,
+        "frequencies": 0,
+        "common_descendants": {
+          "42596": {
+            "progeny": 42596,
+            "progeny_word": "Dawson",
+            "progeny_language": "English",
+            "quality": 252
+          },
+          "195188": {
+            "progeny": 195188,
+            "progeny_word": "David",
+            "progeny_language": "English",
+            "quality": 255
+          },
+          "755261": {
+            "progeny": 755261,
+            "progeny_word": "Davison",
+            "progeny_language": "English",
+            "quality": 250
+          }
+        }
+      },
+      "8179196": {
+        "_id": 8179196,
+        "word": "דָּוִד",
+        "language_name": "Biblical Hebrew",
+        "progeny_count": 152,
+        "frequencies": 0,
+        "common_descendants": {
+          "195188": {
+            "progeny": 195188,
+            "progeny_word": "David",
+            "progeny_language": "English",
+            "quality": 255
+          },
+          "258521": {
+            "progeny": 258521,
+            "progeny_word": "Davis",
+            "progeny_language": "English",
+            "quality": 254
+          },
+          "331462": {
+            "progeny": 331462,
+            "progeny_word": "Davidson",
+            "progeny_language": "English",
+            "quality": 253
+          }
+        }
+      },
+      "8208895": {
+        "_id": 8208895,
+        "word": "Davidus",
+        "language_name": "Latin",
+        "progeny_count": 44,
+        "frequencies": 0,
+        "common_descendants": {
+          "764521": {
+            "progeny": 764521,
+            "progeny_word": "Dawkes",
+            "progeny_language": "English",
+            "quality": 243
+          },
+          "764527": {
+            "progeny": 764527,
+            "progeny_word": "Davys",
+            "progeny_language": "English",
+            "quality": 242
+          },
+          "1132352": {
+            "progeny": 1132352,
+            "progeny_word": "Davisian",
+            "progeny_language": "English",
+            "quality": 241
+          }
+        }
+      },
+      "8241145": {
+        "_id": 8241145,
+        "word": "David",
+        "language_name": "Old English",
+        "progeny_count": 43,
+        "frequencies": 0,
+        "common_descendants": {
+          "309442": {
+            "progeny": 309442,
+            "progeny_word": "Davidic",
+            "progeny_language": "English",
+            "quality": 248
+          },
+          "764528": {
+            "progeny": 764528,
+            "progeny_word": "Dawe",
+            "progeny_language": "English",
+            "quality": 247
+          },
+          "764529": {
+            "progeny": 764529,
+            "progeny_word": "Dawes",
+            "progeny_language": "English",
+            "quality": 249
+          }
+        }
+      },
+      "8274471": {
+        "_id": 8274471,
+        "word": "Dauid",
+        "language_name": "Old English",
+        "progeny_count": 43,
+        "frequencies": 0,
+        "common_descendants": {
+          "320361": {
+            "progeny": 320361,
+            "progeny_word": "Davidian",
+            "progeny_language": "English",
+            "quality": 245
+          },
+          "764515": {
+            "progeny": 764515,
+            "progeny_word": "Dakin",
+            "progeny_language": "English",
+            "quality": 246
+          },
+          "817445": {
+            "progeny": 817445,
+            "progeny_word": "Davidsonian",
+            "progeny_language": "English",
+            "quality": 244
+          }
+        }
+      },
+      "8433473": {
+        "_id": 8433473,
+        "word": "Δαυῑ̈́δ",
+        "language_name": "Koine Greek",
+        "progeny_count": 115,
+        "frequencies": 0,
+        "common_descendants": {
+          "195188": {
+            "progeny": 195188,
+            "progeny_word": "David",
+            "progeny_language": "English",
+            "quality": 255
+          },
+          "258521": {
+            "progeny": 258521,
+            "progeny_word": "Davis",
+            "progeny_language": "English",
+            "quality": 254
+          },
+          "331462": {
+            "progeny": 331462,
+            "progeny_word": "Davidson",
+            "progeny_language": "English",
+            "quality": 253
+          }
+        }
+      },
+      "8438232": {
+        "_id": 8438232,
+        "word": "Dāvīd",
+        "language_name": "Late Latin",
+        "progeny_count": 50,
+        "frequencies": 0,
+        "common_descendants": {
+          "316046": {
+            "progeny": 316046,
+            "progeny_word": "Dawkinsian",
+            "progeny_language": "English",
+            "quality": 238
+          },
+          "764520": {
+            "progeny": 764520,
+            "progeny_word": "Dawkin",
+            "progeny_language": "English",
+            "quality": 240
+          },
+          "1177778": {
+            "progeny": 1177778,
+            "progeny_word": "Dawsonville",
+            "progeny_language": "English",
+            "quality": 239
+          }
+        }
+      },
+      "8447303": {
+        "_id": 8447303,
+        "word": "Δαυῑ̈́δ",
+        "language_name": "Ancient Greek",
+        "progeny_count": 92,
+        "frequencies": 0,
+        "common_descendants": {
+          "195188": {
+            "progeny": 195188,
+            "progeny_word": "David",
+            "progeny_language": "English",
+            "quality": 255
+          },
+          "258521": {
+            "progeny": 258521,
+            "progeny_word": "Davis",
+            "progeny_language": "English",
+            "quality": 254
+          },
+          "331462": {
+            "progeny": 331462,
+            "progeny_word": "Davidson",
+            "progeny_language": "English",
+            "quality": 253
+          }
+        },
+        "entries": {
+          "0": {
+            "pos": {
+              "0": {
+                "definitions": [
+                  "David"
+                ]
+              }
+            }
+          }
+        }
+      }
+    },
+    "affixes": []
+  },
+  {
+    "195188": {
+      "1893365": {
+        "8241145": {
+          "236806": {
+            "236805": {
+              "236807": {}
+            },
+            "8433473": {
+              "8179196": {}
+            },
+            "8447303": {}
+          },
+          "8208895": {}
+        },
+        "8274471": {
+          "8438232": {}
+        }
+      }
+    }
+  },
+  [
+    [
+      1893365,
+      8241145
+    ],
+    [
+      8241145,
+      8208895
+    ],
+    [
+      236806,
+      8447303
+    ],
+    [
+      8433473,
+      8179196
+    ],
+    [
+      1893365,
+      8274471
+    ],
+    [
+      8241145,
+      236806
+    ],
+    [
+      236805,
+      236807
+    ],
+    [
+      8274471,
+      8438232
+    ],
+    [
+      236806,
+      8433473
+    ],
+    [
+      195188,
+      1893365
+    ],
+    [
+      236806,
+      236805
+    ]
+  ]
+]

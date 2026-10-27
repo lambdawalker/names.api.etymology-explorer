@@ -1,0 +1,23 @@
+{
+  "words": {
+    "195188": {
+      "_id": 195188,
+      "word": "David",
+      "language_name": "English",
+      "frequencies": 1603026,
+      "progeny_count": 31,
+      "entries": {
+        "152808": {
+          "entry_id": 152808,
+          "entry_number": 1,
+          "pronunciations": [
+            "/ˈdeɪvɪd/"
+          ],
+          "pronunciation": "/ˈdeɪvɪd/",
+          "etymology": "From Middle English David, Davyd, Davyde, from Old English Dauid, David, from Latin David, Davidus, from Koine Greek Δαυίδ (Dauíd), Δαβίδ (Dabíd), borrowed from Biblical Hebrew דּוד (Dāwîḏ, literally “beloved”)."
+        }
+      },
+      "frequencies_log": 14
+    }
+  }
+}
