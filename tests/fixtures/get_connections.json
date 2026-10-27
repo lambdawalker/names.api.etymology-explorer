@@ -1,0 +1,405 @@
+{
+  "trunkId": "195188",
+  "connection_items": [
+    {
+      "table_source": 100083317,
+      "entry_number": null,
+      "confidence": 100,
+      "type": "etymology",
+      "root_id": 1893365,
+      "root_word": "David",
+      "root_lang": "Middle English",
+      "desc_id": 195188,
+      "desc_word": "David",
+      "desc_lang": "English",
+      "deployed_to_dev": true,
+      "deployed_to_staging": true,
+      "deployed_to_prod": true
+    },
+    {
+      "table_source": 100083318,
+      "entry_number": null,
+      "confidence": 85,
+      "type": "etymology",
+      "root_id": 8433473,
+      "root_word": "Δαυῑ̈́δ",
+      "root_lang": "Koine Greek",
+      "desc_id": 195188,
+      "desc_word": "David",
+      "desc_lang": "English",
+      "deployed_to_dev": true,
+      "deployed_to_staging": false,
+      "deployed_to_prod": false
+    },
+    {
+      "table_source": 102796521,
+      "entry_number": null,
+      "confidence": 85,
+      "type": "etymology",
+      "root_id": 236806,
+      "root_word": "David",
+      "root_lang": "Latin",
+      "desc_id": 195188,
+      "desc_word": "David",
+      "desc_lang": "English",
+      "deployed_to_dev": true,
+      "deployed_to_staging": false,
+      "deployed_to_prod": false
+    },
+    {
+      "table_source": 102796521,
+      "entry_number": null,
+      "confidence": 85,
+      "type": "etymology",
+      "root_id": 236807,
+      "root_word": "דָּוִד",
+      "root_lang": "Hebrew",
+      "desc_id": 236805,
+      "desc_word": "Δαυίδ",
+      "desc_lang": "Ancient Greek",
+      "deployed_to_dev": true,
+      "deployed_to_staging": true,
+      "deployed_to_prod": true
+    },
+    {
+      "table_source": 100083325,
+      "entry_number": null,
+      "confidence": 100,
+      "type": "etymology",
+      "root_id": 8433473,
+      "root_word": "Δαυῑ̈́δ",
+      "root_lang": "Koine Greek",
+      "desc_id": 236806,
+      "desc_word": "David",
+      "desc_lang": "Latin",
+      "deployed_to_dev": true,
+      "deployed_to_staging": false,
+      "deployed_to_prod": false
+    },
+    {
+      "table_source": 100149521,
+      "entry_number": null,
+      "confidence": 85,
+      "type": "etymology",
+      "root_id": 8447303,
+      "root_word": "Δαυῑ̈́δ",
+      "root_lang": "Ancient Greek",
+      "desc_id": 236806,
+      "desc_word": "David",
+      "desc_lang": "Latin",
+      "deployed_to_dev": true,
+      "deployed_to_staging": false,
+      "deployed_to_prod": false
+    },
+    {
+      "table_source": 102796521,
+      "entry_number": null,
+      "confidence": 85,
+      "type": "etymology",
+      "root_id": 236805,
+      "root_word": "Δαυίδ",
+      "root_lang": "Ancient Greek",
+      "desc_id": 236806,
+      "desc_word": "David",
+      "desc_lang": "Latin",
+      "deployed_to_dev": true,
+      "deployed_to_staging": true,
+      "deployed_to_prod": true
+    },
+    {
+      "table_source": 152808,
+      "entry_number": 1,
+      "confidence": 100,
+      "type": "etymology",
+      "root_id": 8274471,
+      "root_word": "Dauid",
+      "root_lang": "Old English",
+      "desc_id": 1893365,
+      "desc_word": "David",
+      "desc_lang": "Middle English",
+      "deployed_to_dev": true,
+      "deployed_to_staging": true,
+      "deployed_to_prod": true
+    },
+    {
+      "table_source": 152808,
+      "entry_number": 1,
+      "confidence": 100,
+      "type": "etymology",
+      "root_id": 8241145,
+      "root_word": "David",
+      "root_lang": "Old English",
+      "desc_id": 1893365,
+      "desc_word": "David",
+      "desc_lang": "Middle English",
+      "deployed_to_dev": true,
+      "deployed_to_staging": true,
+      "deployed_to_prod": true
+    },
+    {
+      "table_source": 102045630,
+      "entry_number": null,
+      "confidence": 85,
+      "type": "etymology",
+      "root_id": 8433473,
+      "root_word": "Δαυῑ̈́δ",
+      "root_lang": "Koine Greek",
+      "desc_id": 8208895,
+      "desc_word": "Davidus",
+      "desc_lang": "Latin",
+      "deployed_to_dev": true,
+      "deployed_to_staging": false,
+      "deployed_to_prod": false
+    },
+    {
+      "table_source": 152808,
+      "entry_number": 1,
+      "confidence": 100,
+      "type": "etymology",
+      "root_id": 8208895,
+      "root_word": "Davidus",
+      "root_lang": "Latin",
+      "desc_id": 8241145,
+      "desc_word": "David",
+      "desc_lang": "Old English",
+      "deployed_to_dev": true,
+      "deployed_to_staging": true,
+      "deployed_to_prod": true
+    },
+    {
+      "table_source": 152808,
+      "entry_number": 1,
+      "confidence": 100,
+      "type": "etymology",
+      "root_id": 236806,
+      "root_word": "David",
+      "root_lang": "Latin",
+      "desc_id": 8241145,
+      "desc_word": "David",
+      "desc_lang": "Old English",
+      "deployed_to_dev": true,
+      "deployed_to_staging": true,
+      "deployed_to_prod": true
+    },
+    {
+      "table_source": 100966909,
+      "entry_number": null,
+      "confidence": 100,
+      "type": "etymology",
+      "root_id": 8438232,
+      "root_word": "Dāvīd",
+      "root_lang": "Late Latin",
+      "desc_id": 8274471,
+      "desc_word": "Dauid",
+      "desc_lang": "Old English",
+      "deployed_to_dev": true,
+      "deployed_to_staging": false,
+      "deployed_to_prod": false
+    },
+    {
+      "table_source": 100083318,
+      "entry_number": null,
+      "confidence": 85,
+      "type": "etymology",
+      "root_id": 236807,
+      "root_word": "דָּוִד",
+      "root_lang": "Hebrew",
+      "desc_id": 8433473,
+      "desc_word": "Δαυῑ̈́δ",
+      "desc_lang": "Koine Greek",
+      "deployed_to_dev": true,
+      "deployed_to_staging": false,
+      "deployed_to_prod": false
+    },
+    {
+      "table_source": 100083320,
+      "entry_number": null,
+      "confidence": 100,
+      "type": "etymology",
+      "root_id": 8179196,
+      "root_word": "דָּוִד",
+      "root_lang": "Biblical Hebrew",
+      "desc_id": 8433473,
+      "desc_word": "Δαυῑ̈́δ",
+      "desc_lang": "Koine Greek",
+      "deployed_to_dev": true,
+      "deployed_to_staging": false,
+      "deployed_to_prod": false
+    },
+    {
+      "table_source": 100083320,
+      "entry_number": null,
+      "confidence": 100,
+      "type": "etymology",
+      "root_id": 8433473,
+      "root_word": "Δαυῑ̈́δ",
+      "root_lang": "Koine Greek",
+      "desc_id": 8438232,
+      "desc_word": "Dāvīd",
+      "desc_lang": "Late Latin",
+      "deployed_to_dev": true,
+      "deployed_to_staging": false,
+      "deployed_to_prod": false
+    },
+    {
+      "table_source": 100149521,
+      "entry_number": null,
+      "confidence": 85,
+      "type": "etymology",
+      "root_id": 236807,
+      "root_word": "דָּוִד",
+      "root_lang": "Hebrew",
+      "desc_id": 8447303,
+      "desc_word": "Δαυῑ̈́δ",
+      "desc_lang": "Ancient Greek",
+      "deployed_to_dev": true,
+      "deployed_to_staging": false,
+      "deployed_to_prod": false
+    },
+    {
+      "table_source": 100315796,
+      "entry_number": null,
+      "confidence": 100,
+      "type": "etymology",
+      "root_id": 8179196,
+      "root_word": "דָּוִד",
+      "root_lang": "Biblical Hebrew",
+      "desc_id": 8447303,
+      "desc_word": "Δαυῑ̈́δ",
+      "desc_lang": "Ancient Greek",
+      "deployed_to_dev": true,
+      "deployed_to_staging": false,
+      "deployed_to_prod": false
+    }
+  ],
+  "words": {
+    "195188": {
+      "_id": 195188,
+      "word": "David",
+      "language_name": "English",
+      "progeny_count": 31,
+      "frequencies": 1603026,
+      "entries": {
+        "0": {
+          "pos": {
+            "0": {
+              "definitions": [
+                "The second king of Judah and Israel, the successor of King Saul in the Hebrew Bible; the son of Jesse and the father of Nathan and King Solomon"
+              ]
+            }
+          }
+        }
+      }
+    },
+    "236805": {
+      "_id": 236805,
+      "word": "Δαυίδ",
+      "language_name": "Ancient Greek",
+      "progeny_count": 92,
+      "frequencies": 0,
+      "entries": {
+        "0": {
+          "pos": {
+            "0": {
+              "definitions": [
+                "David"
+              ]
+            }
+          }
+        }
+      }
+    },
+    "236806": {
+      "_id": 236806,
+      "word": "David",
+      "language_name": "Latin",
+      "progeny_count": 91,
+      "frequencies": 0,
+      "entries": {
+        "0": {
+          "pos": {
+            "0": {
+              "definitions": [
+                "David"
+              ]
+            }
+          }
+        }
+      }
+    },
+    "236807": {
+      "_id": 236807,
+      "word": "דָּוִד",
+      "language_name": "Hebrew",
+      "progeny_count": 160,
+      "frequencies": 0
+    },
+    "1893365": {
+      "_id": 1893365,
+      "word": "David",
+      "language_name": "Middle English",
+      "progeny_count": 40,
+      "frequencies": 0
+    },
+    "8179196": {
+      "_id": 8179196,
+      "word": "דָּוִד",
+      "language_name": "Biblical Hebrew",
+      "progeny_count": 152,
+      "frequencies": 0
+    },
+    "8208895": {
+      "_id": 8208895,
+      "word": "Davidus",
+      "language_name": "Latin",
+      "progeny_count": 44,
+      "frequencies": 0
+    },
+    "8241145": {
+      "_id": 8241145,
+      "word": "David",
+      "language_name": "Old English",
+      "progeny_count": 43,
+      "frequencies": 0
+    },
+    "8274471": {
+      "_id": 8274471,
+      "word": "Dauid",
+      "language_name": "Old English",
+      "progeny_count": 43,
+      "frequencies": 0
+    },
+    "8433473": {
+      "_id": 8433473,
+      "word": "Δαυῑ̈́δ",
+      "language_name": "Koine Greek",
+      "progeny_count": 115,
+      "frequencies": 0
+    },
+    "8438232": {
+      "_id": 8438232,
+      "word": "Dāvīd",
+      "language_name": "Late Latin",
+      "progeny_count": 50,
+      "frequencies": 0
+    },
+    "8447303": {
+      "_id": 8447303,
+      "word": "Δαυῑ̈́δ",
+      "language_name": "Ancient Greek",
+      "progeny_count": 92,
+      "frequencies": 0,
+      "entries": {
+        "0": {
+          "pos": {
+            "0": {
+              "definitions": [
+                "David"
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+}
